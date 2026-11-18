@@ -1,8 +1,13 @@
-
-<!-- BANNER -->
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Victor Gonzalez - Data and AI Banner"/>
+  <img
+    src="banner.jpeg"
+    width="100%"
+    alt="Daniel Gonzalez - Data Analyst and AI Engineer"
+  />
 </p>
+
+<br/>
 
 <!-- SOCIAL LINKS -->
 <p align="center">
@@ -20,7 +25,7 @@
 <h1 align="center">Hi there! I'm Dani Gonzalez 👋</h1>
 
 <h3 align="center">
-  Data Analyst | Junior AI Engineer | ICT Engineer
+  Data Analyst Jr | Junior AI Engineer | ICT Engineer
 </h3>
 
 <p align="center">
