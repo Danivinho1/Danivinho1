@@ -1,239 +1,263 @@
-<!-- PROFILE BANNER -->
+<!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img
-    src="banner.jpeg"
-    width="100%"
-    alt="Daniel Gonzalez - Data Analyst and AI Engineer"
-  />
+  <img src="banner.jpeg" width="100%" alt="Dani Gonzalez — Data Analyst & AI Engineer" />
 </p>
 
-<br/>
+<h1 align="center">Dani Gonzalez</h1>
 
-<!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorgonzalezgopv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/danivinh0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Danivinho1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <b>Data Analyst</b> &nbsp;·&nbsp; <b>Junior AI Engineer</b> &nbsp;·&nbsp; <b>ICT Engineer</b>
 </p>
-
-<h1 align="center">Hi there! I'm Dani Gonzalez 👋</h1>
-
-<h3 align="center">
-  Data Analyst Jr | Junior AI Engineer | ICT Engineer
-</h3>
 
 <p align="center">
   <i>Turning data into insights and ideas into intelligent solutions.</i>
 </p>
 
----
-
-<h2>👨🏻‍💻 Who am I?</h2>
-
-<p>
-  I'm Victor, an Information and Communications Technology Engineering graduate from Puebla, Mexico 🇲🇽.
-  I'm passionate about Data Analytics, Artificial Intelligence, and technology-driven solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorgonzalezgopv/"><img src="https://img.shields.io/badge/LinkedIn-Connect-D97757?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Danivinho1"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/danivinh0/"><img src="https://img.shields.io/badge/Instagram-Say_hi-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Puebla,_MX-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Puebla, Mexico"/>
 </p>
-
-<p>
-  My professional background combines enterprise data analytics, business intelligence,
-  security data management, CRM implementation, and AI-assisted development.
-  I enjoy exploring how technology can solve real-world problems, optimize business processes,
-  and transform information into meaningful solutions.
-</p>
-
-### 🔭 I'm currently working on
-
-- Working as a <b>Security Data Analyst at T-Systems</b>, analyzing enterprise security datasets and investigating structured event information.
-- Transforming security knowledge into structured and accessible repositories using Microsoft SharePoint.
-- Developing workflow automation solutions with Microsoft Power Automate.
-- Exploring AI-assisted development with Claude Code to customize enterprise solutions.
-
-### 📚 I'm currently learning
-
-- Generative AI and AI Agent fundamentals.
-- Prompt Engineering and AI-assisted software development.
-- Python for data processing and automation.
-- Data Engineering, ETL processes, and data integration.
-- Intelligent automation and emerging AI technologies.
-
-### 🤝 I'm looking to collaborate on
-
-- Data Analytics and Business Intelligence projects.
-- Artificial Intelligence and Generative AI applications.
-- Data Engineering and ETL solutions.
-- AI-assisted development and workflow automation.
-- Projects that combine technology and business optimization.
-
-### 💬 Ask me about
-
-- SQL, Python, and Data Analytics.
-- Power BI, DAX, and Data Visualization.
-- ETL processes and relational databases.
-- Generative AI and Prompt Engineering.
-- Claude Code and AI-assisted development.
-- Google SecOps, YARA-L 2.0, and UDM Search.
-- Microsoft SharePoint and Power Automate.
-
-### ⚡ A little more about me
-
-- 🎓 ICT Engineering graduate — Instituto Tecnológico de Puebla.
-- 🌎 Based in Puebla, Mexico.
-- 🗣️ Spanish (Native), English (B2), German (Basic).
-- 🧠 Always curious about emerging technologies.
-- 🚀 Focused on continuous learning and building practical solutions.
-
----
-
-<h2 align="center">👾 My Projects</h2>
 
 <p align="center">
-  <i>Exploring data, artificial intelligence, and technology to build practical solutions.</i>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#focus">Focus</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#background">Background</a> &nbsp;·&nbsp;
+  <a href="#certifications">Certifications</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
-### 📊 01. Business Intelligence & Data Analytics
+<br/>
 
-An end-to-end Business Intelligence project focused on transforming data from multiple sources into meaningful business insights.
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
-**Key contributions:**
+## About
 
-- Designed and implemented relational databases using MySQL.
-- Developed ETL processes for data extraction, transformation, cleaning, and integration.
-- Built an OLAP cube for multidimensional data analysis.
-- Created interactive Power BI dashboards using DAX.
-- Developed KPIs and visual reports to support data-driven decisions.
-- Documented database architecture, data models, and ETL workflows.
-
-**Tech Stack:**
-
-`MySQL` `Power BI` `DAX` `Microsoft Excel` `ETL` `OLAP`
-
----
-
-### 🤖 02. AI-Assisted Development & Knowledge Management
-
-An enterprise knowledge management solution combining Microsoft SharePoint and AI-assisted development with Claude Code.
-
-**Key contributions:**
-
-- Leveraged Claude Code to generate and refine JSON code through iterative prompting.
-- Designed structured SharePoint Lists with customized metadata.
-- Developed customized Gallery views and visual cards.
-- Organized enterprise security information into accessible repositories.
-- Applied AI-assisted coding to customize enterprise interfaces and improve information presentation.
-
-**Tech Stack:**
-
-`Claude Code` `Generative AI` `Prompt Engineering` `JSON` `Microsoft SharePoint`
-
----
-
-### 🔐 03. Security Knowledge Base Transformation
-
-A security knowledge management initiative focused on transforming Excel-based security records into structured and accessible information repositories.
-
-**Key contributions:**
-
-- Cleaned, standardized, and classified security datasets.
-- Organized Indicators of Compromise (IOCs) and previously investigated alerts.
-- Transformed Excel-based records into structured Microsoft SharePoint Lists.
-- Created customized Gallery views to improve information retrieval.
-- Currently developing automated workflows for weekly security alert updates.
-
-**Tech Stack:**
-
-`Microsoft SharePoint` `Microsoft Lists` `Excel` `Power Automate` `Data Management`
-
----
-
-<h2>🛠️ Technologies & Tools</h2>
-
-### 💻 Programming & Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
-</p>
-
-### 📊 Data Analytics & Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
-
-### 🤖 Artificial Intelligence
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-</p>
-
-### ☁️ Cloud, Security & Enterprise Solutions
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
-</p>
-
----
-
-<h2>🏅 Certifications</h2>
-
-- Claude Code in Action — Anthropic
-- Generative AI Fundamentals — Databricks
-- AI Agent Fundamentals — Databricks
-- AI Fundamentals — DataCamp
-- Microsoft Azure AI Essentials — Microsoft
-- Intermediate Python — DataCamp
-- Intermediate SQL — DataCamp
-- Google Cloud Computing Foundations — Google
-- Databricks Fundamentals — Databricks
-
----
-
-<h2>🌎 Languages</h2>
-
-| Language | Proficiency |
-|:---|:---|
-| 🇲🇽 Spanish | Native |
-| 🇺🇸 English | B2 – Intermediate |
-| 🇩🇪 German | Basic |
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
+<h3 align="center">I turn scattered data into systems people can actually use.</h3>
 
 <p align="center">
-  I'm always open to learning, sharing ideas, exploring new technologies,
-  and collaborating on interesting projects.
+  ICT Engineer from Puebla, Mexico 🇲🇽 — working where <b>data</b>, <b>security</b> and <b>AI</b> meet.<br/>
+  I don't just analyze information: I structure it, automate it and make it easy to act on.
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🔎 Analyze</h4>
+      <sub>Enterprise security datasets, events and alerts, investigated with SQL, Python and Google SecOps.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>🧱 Structure</h4>
+      <sub>Messy spreadsheets turned into clean, searchable knowledge bases and BI-ready models.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>⚡ Automate</h4>
+      <sub>Repetitive work replaced by workflows and AI-assisted development, so teams focus on decisions.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security_Data_Analyst-@_T--Systems-D97757?style=flat-square" alt="Security Data Analyst at T-Systems"/>
+  <img src="https://img.shields.io/badge/Certifications-9-111111?style=flat-square" alt="9 certifications"/>
+  <img src="https://img.shields.io/badge/Languages-ES_·_EN_·_DE-111111?style=flat-square" alt="Spanish, English, German"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_collaborate-2EA043?style=flat-square" alt="Open to collaborate"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════ FOCUS ═══════════════ -->
+
+## Focus
+
+> **Where I'm putting my energy right now.**
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🚀 Shipping</h4>
+      <sub>What I do day to day at <b>T-Systems</b></sub>
+      <br/><br/>
+      <b>Security data</b> investigation &amp; analysis<br/>
+      <b>SharePoint</b> knowledge repositories<br/>
+      <b>Power Automate</b> workflows<br/>
+      <b>Claude Code</b> to customize enterprise solutions
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧠 Leveling up</h4>
+      <sub>Skills I'm building in public</sub>
+      <br/><br/>
+      <b>GenAI</b> &amp; AI Agents<br/>
+      <b>Prompt Engineering</b><br/>
+      <b>Python</b> for data &amp; automation<br/>
+      <b>Data Engineering</b> &amp; ETL
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤝 Let's build</h4>
+      <sub>Projects I'd love to join</sub>
+      <br/><br/>
+      <b>BI</b> &amp; analytics dashboards<br/>
+      <b>GenAI</b> applications<br/>
+      <b>ETL</b> &amp; data integration<br/>
+      <b>Automation</b> that saves real hours
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## Projects
+
+> **Problem → Solution → Outcome.** Every project starts with a real business pain.
+
+<br/>
+
+### 01 &nbsp;Business Intelligence & Analytics
+<sub><code>MySQL</code> · <code>ETL</code> · <code>OLAP</code> · <code>Power BI</code> · <code>DAX</code> · <code>Excel</code></sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🎯 Problem</b><br/><sub>Data lived in multiple sources, with no single view to support decisions.</sub></td>
+    <td width="33%" valign="top"><b>🛠️ What I built</b><br/><sub>Relational DB in MySQL, full ETL pipeline, an OLAP cube and interactive Power BI dashboards with DAX KPIs.</sub></td>
+    <td width="33%" valign="top"><b>✅ Outcome</b><br/><sub>One reliable, documented data model and visual reports ready for data-driven decisions.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+### 02 &nbsp;AI-Assisted Knowledge Management
+<sub><code>Claude Code</code> · <code>Prompt Engineering</code> · <code>JSON</code> · <code>SharePoint</code></sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🎯 Problem</b><br/><sub>Critical security information was hard to browse in default enterprise interfaces.</sub></td>
+    <td width="33%" valign="top"><b>🛠️ What I built</b><br/><sub>Custom Gallery views and visual cards on SharePoint Lists, with JSON generated and refined through iterative prompting with Claude Code.</sub></td>
+    <td width="33%" valign="top"><b>✅ Outcome</b><br/><sub>A cleaner, faster way to find and understand information, built with AI instead of weeks of manual coding.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+### 03 &nbsp;Security Knowledge Base
+<sub><code>SharePoint</code> · <code>Microsoft Lists</code> · <code>Power Automate</code> · <code>Excel</code></sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>🎯 Problem</b><br/><sub>IOCs and past investigations were buried in Excel files, hard to search and easy to lose.</sub></td>
+    <td width="33%" valign="top"><b>🛠️ What I built</b><br/><sub>Cleaned, standardized and classified the data, then migrated it into structured Lists with custom Gallery views.</sub></td>
+    <td width="33%" valign="top"><b>✅ Outcome</b><br/><sub>Instant retrieval of known IOCs and alerts, plus an automated weekly update workflow <i>(in progress)</i>.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+
+## Stack
+
+**Languages**&nbsp;
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Data**&nbsp;
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-111111?style=flat-square&logo=oracle&logoColor=F80000)
+![Excel](https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![Databricks](https://img.shields.io/badge/Databricks-111111?style=flat-square&logo=databricks&logoColor=FF3621)
+
+**AI**&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=D97757)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=flat-square&logo=openai&logoColor=74AA9C)
+
+**Cloud & Enterprise**&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![SharePoint](https://img.shields.io/badge/SharePoint-111111?style=flat-square&logo=microsoftsharepoint&logoColor=038387)
+![Power Automate](https://img.shields.io/badge/Power_Automate-111111?style=flat-square&logo=powerautomate&logoColor=0066FF)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-111111?style=flat-square&logo=servicenow&logoColor=81B5A1)
+
+**Security**&nbsp;
+`Google SecOps` &nbsp; `YARA-L 2.0` &nbsp; `UDM Search`
+
+<br/>
+
+<!-- ═══════════════ BACKGROUND ═══════════════ -->
+
+## Background
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Education</h4>
+      <b>Information &amp; Communications Technology Engineering</b><br/>
+      <sub>Instituto Tecnológico de Puebla · Puebla, Mexico</sub>
+      <br/><br/>
+      <sub>Foundation in software, databases, networks and data-driven systems.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌎 Languages</h4>
+      🇲🇽 <b>Spanish</b> — Native<br/>
+      🇺🇸 <b>English</b> — B2 · Upper-intermediate<br/>
+      🇩🇪 <b>German</b> — Basic
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
+
+## Certifications
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🤖 AI &amp; GenAI</h4>
+      <b>Claude Code in Action</b><br/><sub>Anthropic</sub><br/><br/>
+      <b>Generative AI Fundamentals</b><br/><sub>Databricks</sub><br/><br/>
+      <b>AI Agent Fundamentals</b><br/><sub>Databricks</sub><br/><br/>
+      <b>AI Fundamentals</b><br/><sub>DataCamp</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Data &amp; Code</h4>
+      <b>Databricks Fundamentals</b><br/><sub>Databricks</sub><br/><br/>
+      <b>Intermediate Python</b><br/><sub>DataCamp</sub><br/><br/>
+      <b>Intermediate SQL</b><br/><sub>DataCamp</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Cloud</h4>
+      <b>Microsoft Azure AI Essentials</b><br/><sub>Microsoft</sub><br/><br/>
+      <b>Google Cloud Computing Foundations</b><br/><sub>Google</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+## Contact
+
+<p align="center">
+  Open to learning, sharing ideas and collaborating.<br/>
+  The best way to reach me is LinkedIn.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorgonzalezgopv/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_talk_→-D97757?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Always learning, always building, always improving."</i>
+  <sub><i>Always learning · always building · always improving</i></sub>
 </p>
