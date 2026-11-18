@@ -113,11 +113,11 @@
 
 ## Projects
 
-> **Problem → Solution → Outcome.** Every project starts with a real business pain.
+> **Problem → Solution → Outcome.** Every project starts with a real business pain. Click a title to open its repository.
 
 <br/>
 
-### 01 &nbsp;Business Intelligence & Analytics
+### [01 &nbsp;Business Intelligence & Analytics](https://github.com/Danivinho1/Business_Intelligence_Analytics)
 <sub><code>MySQL</code> · <code>ETL</code> · <code>OLAP</code> · <code>Power BI</code> · <code>DAX</code> · <code>Excel</code></sub>
 
 <table>
@@ -128,9 +128,13 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Danivinho1/Business_Intelligence_Analytics"><img src="https://img.shields.io/badge/View_repository_→-111111?style=flat-square&logo=github&logoColor=white" alt="View Business Intelligence & Analytics repository"/></a>
+</p>
+
 <br/>
 
-### 02 &nbsp;AI-Assisted Knowledge Management
+### [02 &nbsp;AI-Assisted Knowledge Management](https://github.com/Danivinho1/ai-assisted-knowledge-management)
 <sub><code>Claude Code</code> · <code>Prompt Engineering</code> · <code>JSON</code> · <code>SharePoint</code></sub>
 
 <table>
@@ -141,9 +145,13 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Danivinho1/ai-assisted-knowledge-management"><img src="https://img.shields.io/badge/View_repository_→-111111?style=flat-square&logo=github&logoColor=white" alt="View AI-Assisted Knowledge Management repository"/></a>
+</p>
+
 <br/>
 
-### 03 &nbsp;Security Knowledge Base
+### [03 &nbsp;Security Knowledge Base](https://github.com/Danivinho1/security-knowledge-base)
 <sub><code>SharePoint</code> · <code>Microsoft Lists</code> · <code>Power Automate</code> · <code>Excel</code></sub>
 
 <table>
@@ -153,6 +161,10 @@
     <td width="33%" valign="top"><b>✅ Outcome</b><br/><sub>Instant retrieval of known IOCs and alerts, plus an automated weekly update workflow <i>(in progress)</i>.</sub></td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/Danivinho1/security-knowledge-base"><img src="https://img.shields.io/badge/View_repository_→-111111?style=flat-square&logo=github&logoColor=white" alt="View Security Knowledge Base repository"/></a>
+</p>
 
 <br/>
 
